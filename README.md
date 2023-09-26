@@ -1,5 +1,3 @@
-![kube-hunter](https://github.com/khulnasoft-lab/kube-hunter/blob/main/kube-hunter.png)
-
 [![GitHub Release][release-img]][release]
 ![Downloads][download]
 ![Docker Pulls][docker-pull]
